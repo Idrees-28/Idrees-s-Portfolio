@@ -30,7 +30,7 @@ export default function Hero() {
           </div>
           <div className="flex-1">
             <img
-              src='./src/components/images/Idrees_Photo.jpg'
+              src='/images/Idrees_Photo.jpg'
               alt="Profile"
               className="rounded-full w-64 h-64 md:w-96 md:h-96 object-bottom mx-auto shadow-xl"
             />
